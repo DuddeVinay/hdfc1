@@ -1,0 +1,4 @@
+Loan
+Charges
+Interest
+Montly EMI
